@@ -3,12 +3,13 @@
   <groupId>cn.xm1221.MieLib</groupId>
   <artifactId>mielib-forge</artifactId>
   <versioning>
-    <latest>0.0.2+1.20.1</latest>
-    <release>0.0.2+1.20.1</release>
+    <latest>0.0.2.1+1.20.1</latest>
+    <release>0.0.2.1+1.20.1</release>
     <versions>
       <version>0.0.1+1.20.1</version>
       <version>0.0.2+1.20.1</version>
+      <version>0.0.2.1+1.20.1</version>
     </versions>
-    <lastUpdated>20261025093344</lastUpdated>
+    <lastUpdated>20261025103827</lastUpdated>
   </versioning>
 </metadata>
